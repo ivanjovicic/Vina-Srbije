@@ -39,6 +39,12 @@ Folder: `research/2026-09-15/`
 - `../data/wedge_scores.csv`
 - `../data/unit_economics_scenarios.csv`
 
+## Agent execution evidence
+
+- `../.ai/RUN_LOG_TEMPLATE.md`
+- `../.ai/runs/README.md`
+- `../.ai/runs/2026-09-15-repository-foundation-delivery.md`
+
 ## Rule
 
-The due-diligence package is evidence and rationale. Canonical execution state lives in `VALIDATION_GATES.md`, `ROADMAP.md`, and the prompt queue.
+The due-diligence package is evidence and rationale. Canonical execution state lives in `VALIDATION_GATES.md`, `ROADMAP.md`, and the prompt queue. Run logs record what an agent actually did; they never substitute for real-world validation.
