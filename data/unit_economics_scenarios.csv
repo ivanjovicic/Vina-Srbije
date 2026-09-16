@@ -1,0 +1,10 @@
+scenario,bookings_month,guests_per_booking,price_per_person_eur,take_rate,booking_revenue_eur,notes
+low_volume,200,2.2,30,0.12,1584.0,hypothesis; replace with pilot data
+base,400,2.2,30,0.12,3168.0,hypothesis; replace with pilot data
+high_volume,600,2.2,30,0.12,4752.0,hypothesis; replace with pilot data
+low_price,400,2.2,20,0.12,2112.0,hypothesis; replace with pilot data
+high_price,400,2.2,45,0.12,4752.0,hypothesis; replace with pilot data
+low_take,400,2.2,30,0.08,2112.0,hypothesis; replace with pilot data
+high_take,400,2.2,30,0.18,4752.0,hypothesis; replace with pilot data
+small_party,400,1.6,30,0.12,2304.0,hypothesis; replace with pilot data
+large_party,400,3.0,30,0.12,4320.0,hypothesis; replace with pilot data
