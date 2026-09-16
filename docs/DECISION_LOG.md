@@ -49,3 +49,39 @@
 
 **Status:** Accepted  
 **Reason:** modular monolith and PostgreSQL are default if build is authorized.
+
+## D-011 — Wine Vision 2026 is a time-sensitive validation milestone, not a launch deadline
+
+**Status:** Accepted  
+**Date:** 2026-09-16
+
+Wine Vision (10–12 October 2026) should be used to compress winery pain/payer/pilot discovery.
+
+Required target:
+- 20–30 qualified winery interviews;
+- >=5 credible QR/Post-Visit pilot commitments;
+- named contacts/owners;
+- measurable pilot outcomes.
+
+Do not build production booking, marketplace, CRM, commerce or native app features for the event.
+
+Canonical milestone:
+`docs/research/WINE_VISION_VALIDATION_MILESTONE_2026_10.md`
+
+## D-012 — Weak Wine Vision evidence must not be rescued by broader scope
+
+**Status:** Accepted guardrail  
+**Date:** 2026-09-16
+
+If the event/interview window produces weak post-visit/QR/repeat-purchase evidence or fewer than 5 credible pilots after a qualified sample, do not respond by building a generic winery directory or marketplace.
+
+Document the dominant pain actually observed and reconsider the wedge before implementation.
+
+## D-013 — Registered winery count is not the paying SAM
+
+**Status:** Accepted evidence rule  
+**Date:** 2026-09-16
+
+The registered-winery universe must be segmented into tourism-ready, digitally maintainable, pilot-ready and plausible-paying subsets before revenue modeling.
+
+Do not multiply all registered wineries by an assumed subscription price and call it serviceable market size.
