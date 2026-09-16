@@ -13,6 +13,27 @@ Requirements:
 - assumptions/evidence ledger;
 - current source review.
 
+## Time-sensitive milestone — Wine Vision 2026
+
+**Event:** 10–12 October 2026, Belgrade  
+**Purpose:** compress winery pain/supply validation before committing to implementation.
+
+This is a validation milestone, not a product-release deadline.
+
+Target before/during the event:
+- 20–30 qualified winery interviews;
+- >=5 credible QR/Post-Visit pilot commitments;
+- named winery owner/contact for the pilot;
+- evidence that post-visit retention/reorder is a repeated unprompted problem;
+- identify existing workaround and measurable outcome that could justify payment.
+
+Do not count compliments, free-listing interest or business cards as pilot commitments.
+
+Canonical milestone detail:
+`docs/research/WINE_VISION_VALIDATION_MILESTONE_2026_10.md`
+
+If this milestone produces weak evidence, do not compensate by building a broader directory, booking marketplace or native app.
+
 ## G1 — Winery pain / supply
 
 **Status: OPEN**
@@ -28,6 +49,14 @@ Kill/pivot signal:
 - pain consistently low;
 - partners only want free publicity/listing.
 
+A credible pilot commitment requires:
+- named contact/owner;
+- concrete winery/experience context;
+- approximate timing;
+- willingness to expose the QR/workflow to real guests;
+- permission to measure the workflow;
+- agreement to review results after the pilot.
+
 ## G2 — Consumer workflow
 
 **Status: OPEN**
@@ -37,6 +66,8 @@ Pass when:
 - meaningful multi-source/booking or post-tasting memory/reorder friction;
 - concierge test shows >=40% qualified users perform a winery action.
 
+Do not infer consumer demand only from winery enthusiasm.
+
 ## G3 — QR Passport
 
 **Status: BLOCKED by G1**
@@ -44,6 +75,8 @@ Pass when:
 Pass hypothesis:
 - >=30% exposed tasting guests save at least one wine with visible staff-supported QR;
 - <15% save is kill signal for Passport-as-core.
+
+The denominator must be guests with a real opportunity to see/use the QR, not total winery visitors.
 
 ## G4 — Repeat purchase
 
@@ -56,6 +89,12 @@ Pass hypothesis:
 
 Thresholds are hypotheses and must be recalibrated with sample size.
 
+Track separately:
+- reorder click/contact;
+- repeat visit intent;
+- confirmed purchase/serious inquiry;
+- attributable vs already-existing customer behavior where practical.
+
 ## G5 — Winery monetization
 
 **Status: BLOCKED by G1/G4**
@@ -63,6 +102,8 @@ Thresholds are hypotheses and must be recalibrated with sample size.
 Pass when:
 - at least 5 wineries agree to a real paid model after attributable value is demonstrated;
 - acquisition/onboarding payback is acceptable.
+
+Do not count "would consider paying" as a pass. Require a concrete paid pilot, invoice-ready commitment or equivalent procurement next step.
 
 ## G6 — Transactional booking
 
